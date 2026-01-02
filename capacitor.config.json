@@ -1,5 +1,5 @@
 {
-  "appId": "com.reymelin.hourue",
+  "appId": "com.reymelin.GC",
   "appName": "Gradient Clock",
   "webDir": "public",
   "server": { "androidScheme": "https" }
