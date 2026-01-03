@@ -1,5 +1,5 @@
 {
-  "appId": "com.reymelin.GC",
+  "appId": "com.reymelin.gradientclock",
   "appName": "Gradient Clock",
   "webDir": "docs",
   "server": { "androidScheme": "https" }

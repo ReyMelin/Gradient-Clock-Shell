@@ -3,4 +3,4 @@
     android:description="@string/wallpaper_description"
     android:thumbnail="@mipmap/ic_launcher"
     android:author="@string/app_name"
-    android:settingsActivity="com.reymelin.GC.WallpaperSettingsActivity" />
+    android:settingsActivity="com.reymelin.gradientclock.WallpaperSettingsActivity" />

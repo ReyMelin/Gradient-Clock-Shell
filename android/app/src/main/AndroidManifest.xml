@@ -33,7 +33,7 @@
             android:label="@string/widget_name">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
-                <action android:name="com.reymelin.GC.ACTION_UPDATE_WIDGET" />
+                <action android:name="com.reymelin.gradientclock.ACTION_UPDATE_WIDGET" />
             </intent-filter>
             <meta-data
                 android:name="android.appwidget.provider"

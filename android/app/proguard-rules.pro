@@ -15,12 +15,12 @@
 -keepclassmembers class com.getcapacitor.** { *; }
 
 # Keep our main activities and services
--keep class com.reymelin.GC.MainActivity { *; }
--keep class com.reymelin.GC.GradientClockWidget { *; }
--keep class com.reymelin.GC.GradientClockWallpaperService { *; }
--keep class com.reymelin.GC.GradientClockWatchFaceService { *; }
--keep class com.reymelin.GC.WidgetConfigActivity { *; }
--keep class com.reymelin.GC.WallpaperSettingsActivity { *; }
+-keep class com.reymelin.gradientclock.MainActivity { *; }
+-keep class com.reymelin.gradientclock.GradientClockWidget { *; }
+-keep class com.reymelin.gradientclock.GradientClockWallpaperService { *; }
+-keep class com.reymelin.gradientclock.GradientClockWatchFaceService { *; }
+-keep class com.reymelin.gradientclock.WidgetConfigActivity { *; }
+-keep class com.reymelin.gradientclock.WallpaperSettingsActivity { *; }
 
 # Keep WebView related classes
 -keep class android.webkit.** { *; }

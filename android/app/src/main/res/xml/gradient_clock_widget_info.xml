@@ -10,5 +10,5 @@
     android:resizeMode="horizontal|vertical"
     android:widgetCategory="home_screen"
     android:description="@string/widget_description"
-    android:configure="com.reymelin.GC.WidgetConfigActivity">
+    android:configure="com.reymelin.gradientclock.WidgetConfigActivity">
 </appwidget-provider>
